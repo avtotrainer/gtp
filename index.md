@@ -3,7 +3,7 @@ layout: default
 title: "Happy Jekylling!"
 ---
 
-<h1>Последние посты</h1>
+<h1>ᲑᲝᲚᲝ ᲞᲝᲡᲢᲔᲑᲘ</h1>
 <ul>
   {% for post in site.posts %}
     <li>
